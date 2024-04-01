@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi16patidar&label=Profile%20views&color=0e75b6&style=flat" alt="ravi16patidar" /> </p>
 
-- 💬 Ask me about **html,css,javascript,react,typescript,nodejs,expressjs,mongodb,c++,DSA**
+- 💬 Ask me about ** HTML, CSS , JavaScript , React.js , TypeScript , Node.js , Express.js , MongoDB , C++ , DSA **
 
 - 📫 How to reach me **ravi4116patidar@gmail.com**
 
